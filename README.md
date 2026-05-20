@@ -8,7 +8,8 @@
 
 Below is the premium dark mode dashboard showing clean card widgets, dynamic status banners, and glassmorphic quick-action panels.
 
-![Edu-Track Dashboard Preview](screenshots/dashboard.png)
+<img width="1300" height="903" alt="dashboard" src="https://github.com/user-attachments/assets/86235c31-e2ed-4e2e-89e2-b22740c5c547" />
+
 
 ---
 
