@@ -23,7 +23,7 @@ import {
   AlertCircle
 } from 'lucide-react';
 
-const API_BASE = 'http://localhost:8080';
+const API_BASE = 'https://edu-track-project-2.onrender.com';
 
 // Mock initial data for fallback and seeding
 const MOCK_BATCHES = [
